@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="200"
+   height="200"
+   viewBox="0 0 100 100"
+   class="css-1j8o68f"
+   version="1.1"
+   id="svg23"
+   xmlns="http://www.w3.org/2000/svg">
+  <defs />
+  <g
+     id="background"
+     fill="#ff4a3f">
+    <!-- Background or other graphical elements can be added here -->
+  </g>
+  <g
+     id="letterP"
+     transform="matrix(2,0,0,2,25,10)"
+     fill="#ffffff">
+    <path
+       d="M10 0h6c3.31 0 6 2.69 6 6v8c0 3.31-2.69 6-6 6h-6v10h-4V0h4zm6 10V6c0-1.1-.9-2-2-2h-6v8h6c1.1 0 2-.9 2-2z"
+       id="pathForP" />
+  </g>
+</svg>
