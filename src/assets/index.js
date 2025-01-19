@@ -20,7 +20,7 @@ import IBM from "./company/ibm.png";
 import MMT from "./company/mmt.png";
 import Fewcents from "./company/fewcents_logo.png";
 import starIndia from "./company/starIndia.png";
-import dadoo from "./testimonial/dadoo.png";
+import dadoo from "./testimonial/Dadoo.png";
 import varun from "./testimonial/varun.png";
 
 
