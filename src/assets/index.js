@@ -16,7 +16,7 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 
-import IBM from "./company/IBM.png";
+import IBM from "./company/ibm.png";
 import MMT from "./company/mmt.png";
 import Fewcents from "./company/fewcents_logo.png";
 import starIndia from "./company/starIndia.png";
